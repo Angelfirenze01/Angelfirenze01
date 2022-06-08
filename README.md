@@ -4,6 +4,7 @@
 **Angelfirenze01/Angelfirenze01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on <a href="https://teamtreehouse.com/tracks/design-and-build-a-website" target="_blank">Design and Build A Website</a> 
 - 🌱 I’m currently learning ... [Introduction To Wireframing](https://teamtreehouse.com/library/introduction-to-wireframing")
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... tel+ 1-313-920-8761
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...  <a href="https://github.com/natashamre">My twin</a> and I were born on the exact inverse of our original due date.  3/26/1986 instead of 6/23/1986.
--->
