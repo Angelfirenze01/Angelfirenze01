@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 👩🏾‍💻 I’m looking for help with ... the final steps of bringing my [portfolio website](https://github.com/Ahttps://github.com/Angelfirenze01/intothecode01.io) live.  Something about the end stages isn't clicking.  I can deploy Heroku and Meteor, but not New Relic, and I likely need help with learning how to FTP.
 - 💬 Ask me about ... my different projects I used Livejournal and Girl Develop It! to learn, i.e. HTML/CSS, as well as my [Team Treehouse Profile](https://teamtreehouse.com/profiles/angelfirenze) 
 - 📫 How to reach me: <ul class="contact-info">
-				<li class="phone"><a href="Tel:+1-313-920-8761">+1-313-920-8761</a></li>
-				<li class="projects_email"><a href="mailto:intothecode01@tutanota.com">intothecode01@tutanota.com</a></li>
-        <li class="contacts_email"><a href="mailto:nicandramoore@protonmail.com">nicandramoore@protonmail.com</a></li>
+				Phone: <li class="phone"><a href="Tel:+1-313-920-8761">+1-313-920-8761</a></li>
+				<li class="projects_email">Business Email<a href="mailto:intothecode01@tutanota.com">intothecode01@tutanota.com</a></li>
+        <li class="contacts_email">Contact Email<a href="mailto:nicandramoore@protonmail.com">nicandramoore@protonmail.com</a></li>
 				<li class="twitter"><a href="http://twitter.com/intent/tweet?screen_name=angelfirenze">@angelfirenze</a></li>
 </ul>
 - 👩🏾 Pronouns: ... She/Her
