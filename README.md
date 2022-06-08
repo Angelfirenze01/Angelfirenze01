@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... my different projects I used Livejournal and Girl Develop It! to learn, i.e. HTML/CSS, as well as my [Team Treehouse Profile](https://teamtreehouse.com/profiles/angelfirenze) 
 - 📫 How to reach me: <ul class="contact-info">
 				Phone: <li class="phone"><a href="Tel:+1-313-920-8761">+1-313-920-8761</a></li>
-				<li class="projects_email">Business Email <a href="mailto:intothecode01@tutanota.com">intothecode01@tutanota.com</a></li>
-        <li class="contacts_email">Contact Email <a href="mailto:nicandramoore@protonmail.com">nicandramoore@protonmail.com</a></li>
-				<li class="twitter"><a href="http://twitter.com/intent/tweet?screen_name=angelfirenze">@angelfirenze</a></li>
+				<li class="projects_email">Business Email Address: <a href="mailto:intothecode01@tutanota.com">intothecode01@tutanota.com</a></li>
+        			<li class="contacts_email">Contact Email Address: <a href="mailto:nicandramoore@protonmail.com">nicandramoore@protonmail.com</a></li>
+				<li class="twitter">Twitter: <a href="http://twitter.com/intent/tweet?screen_name=angelfirenze">@angelfirenze</a></li>
 </ul>
 - 👩🏾 Pronouns: ... She/Her
 - ⚡ Fun fact: ... My <a href="https://github.com/natashamre">twin</a> and I were born on the exact inverse of our original due date.  3/26/1986 instead of 6/23/1986.
