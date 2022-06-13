@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://teamtreehouse.com/tracks/design-and-build-a-website" target="_blank">Design and Build A Website</a> 
 - 🌱 I’m currently learning ... [Introduction To Wireframing](https://teamtreehouse.com/library/introduction-to-wireframing")
-- 👯 I’m looking to collaborate on ... different ways to learn Back-End, like Java, JavaScript/ECMAScript, PHP, and Ruby.
+- 👯 I’m looking to collaborate on ... different ways to further learn Back-End, like Java, PHP, and Ruby, as well as Front-End languages like HTML/CSS and JavaScript/ECMAScript.
 - 👩🏾‍💻 I’m looking for help with ... the final steps of bringing my [portfolio website](https://github.com/Ahttps://github.com/Angelfirenze01/intothecode01.io) live.  Something about the end stages isn't clicking.  I can deploy Heroku and Meteor, but not New Relic, and I likely need help with learning how to FTP.
 - 💬 Ask me about ... my different projects I used Livejournal and Girl Develop It! to learn, i.e. HTML/CSS, as well as my [Team Treehouse Profile](https://teamtreehouse.com/profiles/angelfirenze) 
 - 📫 How to reach me: <ul class="contact-info">
