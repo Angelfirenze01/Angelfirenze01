@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on @Treehouse's <a href="https://teamtreehouse.com/tracks/design-and-build-a-website" target="_blank">Design and Build A Website</a> and @Sitepoint's <a href="https://www.sitepoint.com/premium/books/javascript-novice-to-ninja/" target="_blank">JavaScript: From Novice to Ninja</a>
+- 🔭 I’m currently working on @treehouse's <a href="https://teamtreehouse.com/tracks/design-and-build-a-website" target="_blank">Design and Build A Website</a> and @Sitepoint's <a href="https://www.sitepoint.com/premium/books/javascript-novice-to-ninja/" target="_blank">JavaScript: From Novice to Ninja</a>
 - 🌱 I’m currently learning ... [Introduction To Wireframing](https://teamtreehouse.com/library/introduction-to-wireframing")
 - 👯 I’m looking to collaborate on ... different ways to further learn Back-End, like Java, PHP, and Ruby, as well as Front-End languages like HTML/CSS and JavaScript/ECMAScript.
 - 👩🏾‍💻 I’m looking for help with ... the final steps of bringing my [portfolio website](https://github.com/Ahttps://github.com/Angelfirenze01/intothecode01.io) live.  Something about the end stages isn't clicking.  I can deploy Heroku and Meteor, but not New Relic, and I likely need help with learning how to FTP.
