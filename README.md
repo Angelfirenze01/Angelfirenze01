@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 				Twitter: 
 					<li class="twitter">Twitter: <a href="http://twitter.com/intent/tweet?screen_name=Angelfirenze">@Angelfirenze</a></li></ul>
 - 👩🏾 Pronouns: ... She/Her
-- ⚡ Fun fact: ... My <a href="https://github.com/natashamre">twin</a> and I were born on the exact inverse of our original due date.  3/26/1986 instead of 6/23/1986.
+- ⚡ Fun fact: ... ISRAEL IS MURDERING PALESTINIANS! BIBI DOES NOT CONTROL ME!
+
+My <a href="https://github.com/natashamre">twin</a> and I were born on the exact inverse of our original due date.  3/26/1986 instead of 6/23/1986.
