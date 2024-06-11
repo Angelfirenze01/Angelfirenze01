@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 					<li class="projects_email">Business Address: <a href="mailto:intothecode01@tutanota.com">intothecode01@tutanota.com</a></li>
         				<li class="contacts_email">Contact Address: <a href="mailto:nicandramoore@protonmail.com">nicandramoore@protonmail.com</a></li>
 				Twitter: 
-					<li class="twitter">Twitter: <a href="http://twitter.com/intent/tweet?screen_name=Angelfirenze">@Angelfirenze</a></li></ul>
+					<li class="X">X: <a href="http://x.com/intent/tweet?screen_name=Angelfirenze">@Angelfirenze</a></li></ul>
 - 👩🏾 Pronouns: ... She/Her
 - ⚡ Fun fact: ... ISRAEL IS MURDERING PALESTINIANS! BIBI DOES NOT CONTROL ME!
